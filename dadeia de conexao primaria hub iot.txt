@@ -1,0 +1,49 @@
+HostName=P4M5.azure-devices.net;DeviceId=Fullstack_dispositivo;SharedAccessKey=UirzzBvvny4w6v/JpMLz9vhLlAI4FAElV5o/08xmyng=
+
+
+IOT com politica de segurança iothubowner
+
+connection string
+
+HostName=P4M5.azure-devices.net;SharedAccessKeyName=iothubowner;SharedAccessKey=WJBLJ9iTz4ILF9ZJsHETgo2mmwFOb+oQIAIoTCaTfvs=
+HostName=P4M5.azure-devices.net;DeviceId=Fullstack_dispositivo;SharedAccessKey=nf549Rz50G1+z6srXWgAJNueJdI8VI9w/AIoTDtLxvk=
+
+
+primary
+WJBLJ9iTz4ILF9ZJsHETgo2mmwFOb+oQIAIoTCaTfvs=
+
+second
+dqq91nm0u3X5vDQd1I139fna3GL7j0J8tAIoTBA15yI=
+
+
+connectionString": "HostName=P4M5.azure-devices.net;SharedAccessKeyName=iothubowner;SharedAccessKey=WJBLJ9iTz4ILF9ZJsHETgo2mmwFOb+oQIAIoTCaTfvs="
+
+set IotHubConnectionString=HostName=P4M5.azure-devices.net;SharedAccessKeyName=iothubowner;SharedAccessKey=WJBLJ9iTz4ILF9ZJsHETgo2mmwFOb+oQIAIoTCaTfvs=
+
+set EventHubConsumerGroup=P4M5
+
+azure sign in
+
+HostName=P4M5.azure-devices.net;DeviceId=Fullstack_dispositivo;SharedAccessKey=UirzzBvvny4w6v/JpMLz9vhLlAI4FAElV5o/08xmyng=
+
+
+CAMINHO PRO DEVICE CRIADO - NOME Fullstack_dispositivoHostName=P4M5.azure-devices.net;DeviceId=Fullstack_dispositivo;SharedAccessKey=nf549Rz50G1+z6srXWgAJNueJdI8VI9w/AIoTDtLxvk=
+HostName=P4M5.azure-devices.net;DeviceId=Fullstack_dispositivo;SharedAccessKey=nf549Rz50G1+z6srXWgAJNueJdI8VI9w/AIoTDtLxvk=
+
+HostName=P4M5.azure-devices.net;SharedAccessKeyName=iothubowner;SharedAccessKey=WJBLJ9iTz4ILF9ZJsHETgo2mmwFOb+oQIAIoTCaTfvs=
+
+host name
+P4M5.azure-devices.net
+shared access policy name
+iothubowner
+shared access policy key
+WJBLJ9iTz4ILF9ZJsHETgo2mmwFOb+oQIAIoTCaTfvs
+
+set IotHubConnectionString=HostName=P4M5.azure-devices.net;SharedAccessKeyName=iothubowner;SharedAccessKey=WJBLJ9iTz4ILF9ZJsHETgo2mmwFOb+oQIAIoTCaTfvs=
+
+set EventHubConsumerGroup=P4M5
+
+device1
+HostName=P4M5.azure-devices.net;DeviceId=device1;SharedAccessKey=1YBc1pwmgMC0Ggcf8uehCQurgjK090fGZA/38Kegx9I=
+
+
